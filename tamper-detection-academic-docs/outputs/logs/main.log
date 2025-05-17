@@ -1,0 +1,25 @@
+2025-05-17 21:36:02,369 - INFO - 🎯 Tamper Detection Pipeline Started
+2025-05-17 21:36:02,369 - INFO - 🚀 Step 1: Downloading template images
+2025-05-17 21:36:02,441 - INFO - 🚀 Step 2: Creating tampered images
+2025-05-17 21:36:02,477 - INFO - 🚀 Step 3: Comparing templates and tampered images
+2025-05-17 21:36:03,504 - INFO - ✅ 16bed7fb_transformed.jpg | SSIM: 0.9983 | OCR: 1.0000
+2025-05-17 21:36:04,832 - INFO - ✅ 408c91bc_transformed.jpg | SSIM: 0.9994 | OCR: 0.9702
+2025-05-17 21:36:05,885 - INFO - 🚨 48f69a60_transformed.jpg | SSIM: 0.9981 | OCR: 0.8094
+2025-05-17 21:36:06,847 - INFO - 🚨 5237814f_transformed.jpg | SSIM: 0.9986 | OCR: 0.7802
+2025-05-17 21:36:07,753 - INFO - 🚨 55162f7c_transformed.jpg | SSIM: 0.9982 | OCR: 0.8929
+2025-05-17 21:36:08,383 - INFO - 🚨 5b56ef50_transformed.jpg | SSIM: 0.9982 | OCR: 0.8610
+2025-05-17 21:36:09,504 - INFO - ✅ 6b32c718_transformed.jpg | SSIM: 0.9989 | OCR: 0.9692
+2025-05-17 21:36:10,300 - INFO - ✅ 840d910e_transformed.jpg | SSIM: 0.9991 | OCR: 1.0000
+2025-05-17 21:36:11,284 - INFO - 🚨 8484ea9d_transformed.jpg | SSIM: 0.9980 | OCR: 0.8927
+2025-05-17 21:36:11,935 - INFO - ✅ 877de0d4_transformed.jpg | SSIM: 0.9992 | OCR: 0.9717
+2025-05-17 21:36:12,860 - INFO - 🚨 8c02999d_transformed.jpg | SSIM: 0.9983 | OCR: 0.8074
+2025-05-17 21:36:13,903 - INFO - ✅ 9a6b65a5_transformed.jpg | SSIM: 0.9992 | OCR: 0.9614
+2025-05-17 21:36:15,088 - INFO - 🚨 9bdb30a5_transformed.jpg | SSIM: 0.9985 | OCR: 0.6083
+2025-05-17 21:36:15,913 - INFO - 🚨 9fd11161_transformed.jpg | SSIM: 0.9986 | OCR: 0.8480
+2025-05-17 21:36:22,233 - INFO - ✅ b2a3a2e5_transformed.jpg | SSIM: 0.9989 | OCR: 0.9903
+2025-05-17 21:36:23,328 - INFO - 🚨 c30c7cb5_transformed.jpg | SSIM: 0.9984 | OCR: 0.8204
+2025-05-17 21:36:24,212 - INFO - ✅ c97c04b1_transformed.jpg | SSIM: 0.9975 | OCR: 0.9953
+2025-05-17 21:36:26,663 - INFO - ✅ f01cbe17_transformed.jpg | SSIM: 0.9990 | OCR: 0.9836
+2025-05-17 21:36:27,659 - INFO - 🚨 f541e2f3_transformed.jpg | SSIM: 0.9980 | OCR: 0.8089
+2025-05-17 21:36:27,678 - INFO - 📄 Report saved to outputs/reports/exploration_results.csv
+2025-05-17 21:36:27,678 - INFO - ✅ Pipeline completed
